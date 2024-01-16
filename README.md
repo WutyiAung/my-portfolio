@@ -7,9 +7,7 @@ Welcome to my profile,
 skills 
 
 Frontend: HTML, CSS, Bootstrap, JavaScript 
-Backend: PHP, Laravel Responsive Design, Cross-Browser Compatibility
-Computer Science: Data Structures and Algorithms ,Operating Systems,
-Databases: MySQL 
+Backend: PHP, Laravel Responsive Design,database
 
 Education :Bachelor of Science in Computer Science [University of Computer Studies PYAY ]
 
