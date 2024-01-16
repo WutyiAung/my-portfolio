@@ -4,7 +4,7 @@ Welcome to my portfolio project! This repository contains the source code and as
 
 
 About Me 
-Hello, I'm Wutyi Aung, a final year computer science student with a strong passion for web development and a deep understanding of various computer science concepts. I am enthusiastic about creating innovative and efficient solutions that leverage my skills in HTML, CSS, Bootstrap, JavaScript, PHP, Laravel, and my knowledge of data structures, operating systems, databases, and networking.
+ I'm Wutyi Aung, a final year computer science student with a strong passion for web development and a deep understanding of various computer science concepts. I am enthusiastic about creating innovative and efficient solutions that leverage my skills in HTML, CSS, Bootstrap, JavaScript, PHP, Laravel, and my knowledge of data structures, operating systems, databases, and networking.
 
 skills 
 
